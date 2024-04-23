@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C# Task home\\23.04.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B138F7B-0E40-4888-AC21-70B2C7062FE4}|23.04.2024\\23.04.2024.csproj|c:\\users\\user\\desktop\\c# task home\\23.04.2024\\23.04.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B138F7B-0E40-4888-AC21-70B2C7062FE4}|23.04.2024\\23.04.2024.csproj|solutionrelative:23.04.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B138F7B-0E40-4888-AC21-70B2C7062FE4}|23.04.2024\\23.04.2024.csproj|c:\\users\\user\\desktop\\c# task home\\23.04.2024\\23.04.2024\\file\\json1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B138F7B-0E40-4888-AC21-70B2C7062FE4}|23.04.2024\\23.04.2024.csproj|solutionrelative:23.04.2024\\file\\json1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Json1.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Task home\\23.04.2024\\23.04.2024\\File\\Json1.json",
+              "RelativeDocumentMoniker": "23.04.2024\\File\\Json1.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Task home\\23.04.2024\\23.04.2024\\File\\Json1.json",
+              "RelativeToolTip": "23.04.2024\\File\\Json1.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T18:18:25.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Task home\\23.04.2024\\23.04.2024\\Program.cs",
+              "RelativeDocumentMoniker": "23.04.2024\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Task home\\23.04.2024\\23.04.2024\\Program.cs",
+              "RelativeToolTip": "23.04.2024\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:02:01.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
